@@ -431,17 +431,6 @@ to understand purchasing behavior.
 
 ---
 
-# 📉 Visualizations Recommended
-
-- Monthly Order Trend
-- Revenue Trend
-- State-wise Revenue Map
-- Customer Distribution Charts
-- Payment Method Distribution
-- Review Score Distribution
-- Delivery Time Analysis
-- Seller Performance Dashboard
-
 ---
 
 ---
